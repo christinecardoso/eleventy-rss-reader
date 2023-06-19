@@ -1,3 +1,3 @@
 module.exports = {
-  "siteTitle": "Steph's Favorite RSS"
+  "siteTitle": "Christine's Favorite RSS"
 }
